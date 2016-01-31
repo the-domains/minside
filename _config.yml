@@ -1,0 +1,14 @@
+layout_spectrum: 0.5860751
+color:
+  saturation: 0.0580828
+  lightness: 0.0454847
+  brandStrength: 1
+  brandColors:
+    - '#D8BB92'
+    - '#271E16'
+    - '#C58066'
+    - '#9A665B'
+    - '#395D5B'
+  rhythmicContrast: 0.680754
+typography_spectrum: 0
+name: Minside
